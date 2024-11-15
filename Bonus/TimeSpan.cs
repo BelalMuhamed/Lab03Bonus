@@ -56,7 +56,7 @@ namespace Bonus
         }
         #endregion
 
-        
+
 
         #region Convert to Seconds
         public long TotalSeconds()
